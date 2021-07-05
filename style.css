@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: darkkhaki;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
